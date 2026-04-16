@@ -7,7 +7,7 @@ I am a passionate and driven Backend Developer with a strong foundation in the .
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on expanding my backend development skills and building real-world applications.
-- 🌱 While my current focus is on writting clean and efficient backend code, my goal is to grow into a well-rounded **Software Enginner**.
+- 🌱 While my current focus is on writting clean & efficient backend code, my goal is to grow into a well-rounded **Software Enginner**.
 - 💬 Ask me about **C#, SQL Server, or Desktop App Development (WinForms/Windows Services)**.
 - 📫 How to reach me: https://www.linkedin.com/in/melad-abo-obaid
 
