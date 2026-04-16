@@ -9,7 +9,7 @@ I am a passionate and driven Backend Developer with a strong foundation in the .
 - 🔭 I’m currently working on expanding my backend development skills and building real-world applications.
 - 🌱 I’m currently learning deeper architectural patterns in **ASP.NET Core** and advanced **T-SQL** optimization.
 - 💬 Ask me about **C#, SQL Server, or Desktop App Development (WinForms/Windows Services)**.
-- 📫 How to reach me: [Add your LinkedIn/Email here]
+- 📫 How to reach me: https://www.linkedin.com/in/melad-abo-obaid
 
 ### 🛠️ Tech Stack & Skills
 
@@ -28,5 +28,3 @@ I am a passionate and driven Backend Developer with a strong foundation in the .
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=meladaboobaid&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meladaboobaid&layout=compact&theme=radical)
-
-*(Note: Replace the GitHub stats links if you want a different theme or layout!)*
